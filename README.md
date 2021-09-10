@@ -1,5 +1,6 @@
 # ANSI-Codes
 
+```
 // ANSI Codes
 #define $TEXT_BLACK 	"\x1b[30m"
 #define $TEXT_RED 		"\x1b[31m"
@@ -29,3 +30,4 @@
 #define $TEXT_NOUNDERLINE 		"\e[24m"
 
 #define $CLEAR_SCREEN 	"\e[3J"
+```
