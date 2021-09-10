@@ -31,3 +31,6 @@
 
 #define $CLEAR_SCREEN 	"\e[3J"
 ```
+
+Will create .h files soon.
+[Reference](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
