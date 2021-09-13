@@ -1,3 +1,5 @@
+#ifndef _ANSI_COLOR_CODES_H
+#define _ANSI_COLOR_CODES_H
 // ANSI Codes
 #define $TEXT_BLACK 	"\x1b[30m"
 #define $TEXT_RED 		"\x1b[31m"
@@ -30,3 +32,4 @@
 
 #define $CLEAR_SCREEN			"\e[J"
 #define $CLEAR_ENTIRESCREEN 	"\e[2J"
+#endif
